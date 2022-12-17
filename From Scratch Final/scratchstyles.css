@@ -1,0 +1,51 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+    background-color: pink;
+    font-size: 25px
+    padding: 15px;
+}
+
+img{
+    width: 300px
+}
+
+.banner{
+    font-family: 'Lobster', cursive;
+    font-family: 'Nanum Brush Script', cursive;
+    font-weight: bold;
+    font-size: 80px;
+    text-decoration: underline;
+}
+
+.bold{
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Nanum Brush Script', cursive;
+    font-weight: bold;
+}
+
+.card{
+    border: gray 1px solid;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+
+.anchor{
+    font-family: 'Lobster', cursive;
+    font-family: 'Nanum Brush Script', cursive;
+    font-size: 35px;
+}
+
+.link{
+    font-family: 'Lobster', cursive;
+    font-family: 'Nanum Brush Script', cursive;
+    padding-bottom: 50px;
+    font-size: 35px;
+}
+
+div{
+    padding-left: 30px;
+}
